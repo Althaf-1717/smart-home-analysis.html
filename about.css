@@ -1,0 +1,53 @@
+.navbar-left{
+    height: 50px;
+    width: 35px;
+}
+.logo-image{
+    background-color: black;
+    height: 100px; 
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+
+    
+}
+.detail{
+  padding: 20px;
+  padding-top: 90px;
+}
+.home-left{
+    width:50vw;
+    text-align:center; text-align: left;
+    padding-right: 355px;
+    padding-top: 135px;
+}
+.home-right {
+    width: 50vw;
+    padding-left: 100px;
+    padding-top: 300px;
+}
+.second{
+    padding: top 20px; 
+    width: 400px;
+}
+.logo-image{
+    border-radius: 50%;
+}
+body{
+    background: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
+}
+.third{
+    padding-top: 195px;
+    width: 400px;
+}
+.fourth{
+    width:400px;
+    padding: top 100px; ;
+}
